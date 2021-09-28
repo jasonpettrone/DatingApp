@@ -9,7 +9,8 @@ Web app for users to create a dating profile and match with other users.
 Web app built using .NET to drive the backend API and Angular to drive the front end behavior.
 
 Current Home page of the app:
-![image](https://user-images.githubusercontent.com/16530058/134829133-25d34675-b210-4cf9-8e4a-7fbf43e39103.png)
+![image](https://user-images.githubusercontent.com/16530058/135024608-405dbbc6-619e-4044-b38d-269dd6b2d5ba.png)
+
 
 Home page functionality:
 - User can click 'Register' and provide a username and password to create an account.
