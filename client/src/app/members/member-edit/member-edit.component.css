@@ -1,0 +1,16 @@
+.card {
+    padding: 10px;
+}
+
+.card-body {
+    padding: 0 5px;
+}
+
+.card-footer {
+    padding: 10px 15px;
+    border-top: none;
+}
+
+.ngx-gallery { 
+    display: inline-block; margin-bottom: 20px; 
+}
