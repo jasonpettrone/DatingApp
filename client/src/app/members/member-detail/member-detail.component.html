@@ -1,8 +1,9 @@
 <div class="row" *ngIf="member">
-    <div class="col-4">
+    <div class="col-3">
+        <div class="card">
         <img src="{{member.photoUrl || './assets/user.png'}}" alt="{{member.knownAs}}" class="card-img-top img-thumbnail">
         <div class="card-body">
-            <div>
+            <div class="mt-2">
                 <strong>Location:</strong>
                 <p>{{member.city}}, {{member.country}}</p>
             </div>
@@ -25,6 +26,7 @@
                 <button class="btn btn-primary">Message</button>
             </div>
         </div>
+    </div>
     </div>
 
     <div class="col-8">
